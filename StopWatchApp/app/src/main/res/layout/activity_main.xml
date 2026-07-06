@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/stopwatchbkg"
+    tools:context=".MainActivity">
+
+    <!-- Timer -->
+
+    <TextView
+        android:id="@+id/timerText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="00:00:00"
+        android:textColor="#FFFFFF"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="315dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+    <!-- Start Button -->
+
+    <Button
+        android:id="@+id/startBtn"
+        android:layout_width="140dp"
+        android:layout_height="48dp"
+        android:text="Start"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"
+        android:backgroundTint="#303A6E"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginStart="24dp"
+        android:layout_marginBottom="75dp"/>
+
+    <!-- Stop Button -->
+
+    <Button
+        android:id="@+id/stopBtn"
+        android:layout_width="140dp"
+        android:layout_height="48dp"
+        android:text="Stop"
+        android:textAllCaps="false"
+        android:textColor="#A0A0A0"
+        android:enabled="false"
+        android:backgroundTint="#EEE6D5"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginEnd="24dp"
+        android:layout_marginBottom="75dp"/>
+
+    <!-- Reset Button -->
+
+    <Button
+        android:id="@+id/resetBtn"
+        android:layout_width="300dp"
+        android:layout_height="48dp"
+        android:text="Reset"
+        android:textAllCaps="false"
+        android:textColor="#A0A0A0"
+        android:backgroundTint="#EEE6D5"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="15dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

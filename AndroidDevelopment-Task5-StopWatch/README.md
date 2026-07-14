@@ -26,15 +26,15 @@ A simple Android Stopwatch application built using Kotlin and XML.
 
 ### Home Screen
 
-![Home Screen](Screenshots/HomeScreen.png)
+![Home Screen](ScreenShots/Home.png)
 
 ### Timer Running
 
-![Running](Screenshots/TimerRunning.png)
+![Running](ScreenShots/Running.png)
 
 ### Timer Reset
 
-![Reset](Screenshots/TimerReset.png)
+![Reset](ScreenShots/Reset.png)
 
 ---
 

@@ -28,7 +28,7 @@ A simple Android Quiz Application developed using Kotlin and XML. The app allows
 
 ### 🏠 Welcome Screen
 
-![Welcome Screen](Screenshots/WelcomeScreen.png)
+![Welcome Screen](Screenshorts/WelcomeScreen.png)
 
 The first screen displayed when the application launches. Users can start the quiz from here.
 
@@ -36,7 +36,7 @@ The first screen displayed when the application launches. Users can start the qu
 
 ### ❓ Question Screen
 
-![Question Screen](Screenshots/QuesScreen.png)
+![Question Screen](Screenshorts/QuesScreen.png)
 
 Displays quiz questions with multiple-choice options. Users select an answer and proceed to the next question.
 
@@ -44,7 +44,7 @@ Displays quiz questions with multiple-choice options. Users select an answer and
 
 ### ✅ Answer Feedback Screen
 
-![Answer Screen](Screenshots/AnswerScreen.png)
+![Answer Screen](Screenshorts/AnswerScreen.png)
 
 Shows whether the selected answer is correct or incorrect before moving to the next question.
 
@@ -52,7 +52,7 @@ Shows whether the selected answer is correct or incorrect before moving to the n
 
 ### 🏆 Result Screen
 
-![Result Screen](Screenshots/ResultScreen.png)
+![Result Screen](Screenshorts/ResultScreen.png)
 
 Displays the final score after completing the quiz.
 

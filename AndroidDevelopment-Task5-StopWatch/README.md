@@ -22,6 +22,20 @@ A simple Android Stopwatch application built using Kotlin and XML.
 - XML
 - Android Studio
 
+## 📸 Screenshots
+
+### Home Screen
+
+![Home Screen](Screenshots/HomeScreen.png)
+
+### Timer Running
+
+![Running](Screenshots/TimerRunning.png)
+
+### Timer Reset
+
+![Reset](Screenshots/TimerReset.png)
+
 ---
 
 ## 👩‍💻 Developed By

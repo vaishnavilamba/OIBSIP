@@ -30,15 +30,15 @@ A simple Android Calculator application developed using Kotlin and XML. It perfo
 
 ### Home Screen
 
-![Home Screen](ScreenShorts/Home.png)
+![Home Screen](Screenshorts/Home.png)
 
 ### Calculation
 
-![Calculation](ScreenShorts/Calculation.png)
+![Calculation](Screenshorts/Calculation.png)
 
 ### Result
 
-![Result](ScreenShorts/Result.png)
+![Result](Screenshorts/Result.png)
 
 ---
 

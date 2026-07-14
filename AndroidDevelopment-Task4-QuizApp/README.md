@@ -26,17 +26,35 @@ A simple Android Quiz Application developed using Kotlin and XML. The app allows
 
 ## 📸 Screenshots
 
-### Home Screen
+### 🏠 Welcome Screen
 
-![Home](Screenshots/Home.png)
+![Welcome Screen](Screenshots/WelcomeScreen.png)
 
-### Quiz Screen
+The first screen displayed when the application launches. Users can start the quiz from here.
 
-![Quiz](Screenshots/Question.png)
+---
 
-### Result Screen
+### ❓ Question Screen
 
-![Result](Screenshots/Result.png)
+![Question Screen](Screenshots/QuesScreen.png)
+
+Displays quiz questions with multiple-choice options. Users select an answer and proceed to the next question.
+
+---
+
+### ✅ Answer Feedback Screen
+
+![Answer Screen](Screenshots/AnswerScreen.png)
+
+Shows whether the selected answer is correct or incorrect before moving to the next question.
+
+---
+
+### 🏆 Result Screen
+
+![Result Screen](Screenshots/ResultScreen.png)
+
+Displays the final score after completing the quiz.
 
 ---
 
